@@ -69,7 +69,6 @@ Relevant Coursework: Statistical Modelling, Machine Learning, Optimization Techn
 ## 🔗 Connect with Me
 
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/lakshmi-jayachandran20/)  
-- **Github:** [GitHub](https://github.com/Lakshmij20)  
 - **Email:** lakshmijy20@gmail.com
 
 ---
